@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pFGk7qJAny+CT228Thjxv1B5G/BsqIsA/UCmPOQatB3mPDIycibI4+07zTIWVdf6I1ENkrmN6M7Cyw5GDaosEQ==",
+  "dgSpecHash": "aIPghJbwft6XZJS+TQtSqaWRfuZu5hLYqGvqPVNCEXvUYcRqP4h3ubBrtyAYhT3MECCLCZXpeILV5fgOOF+0iQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Obed\\source\\repos\\UrlShorter\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Obed\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
+    "C:\\Users\\Obed\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\8.0.0\\ardalis.specification.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\Obed\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Obed\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Obed\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
