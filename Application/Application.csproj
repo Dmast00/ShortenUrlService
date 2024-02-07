@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\ShortenUrl\Commands\" />
     <Folder Include="Features\ShortenUrl\Queries\" />
   </ItemGroup>
 
